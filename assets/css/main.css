@@ -86,7 +86,7 @@ svg,img { max-width: 100%; height: auto; }
   6. >>> Research Style
 ----------------------------------------------------------------*/
 .ds-research-section{ padding-top: 120px; padding-bottom: 120px;}
-.ds-research-list{ padding-left: 70px; padding-top:40px; padding-right: 70px; background-color:#F6F8FA; margin-bottom: 40px; }
+.ds-research-list{ padding-left: 70px; padding-top:120px; padding-right: 70px; background-color:#F6F8FA; margin-bottom: 40px; }
 .ds-research-list section{ padding-top: 20px; padding-right: 120px; }
 .ds-research-tilte{ color: #000; font-size: 24px; line-height: 30px; font-weight: 600; margin-bottom: 30px; }
 .ds-research-list p{ font-weight: 300; font-size: 18px; line-height: 30px; }
@@ -136,8 +136,8 @@ span.ds-department{ color: #373737; font-weight: 500; font-size: 18px; padding-b
 /*-----------------------------------------------------------------
   7. >>> Footer Style
 ----------------------------------------------------------------*/
-.ds-footer{ background-color: #000; padding: 10px 0; }
-.ds-footer section { padding-bottom: 10px; }
+.ds-footer{ background-color: #000; padding: 5px 0; }
+.ds-footer section { padding-bottom: 5px; }
 .ds-footer section span{ color: rgba(255,255,255,0.5); text-transform: uppercase; font-weight: 700; font-size: 16px; letter-spacing: 1px; display: block; padding-bottom: 10px; }
 .ds-footer section  h4{ color: #FFF; font-size: 48px; font-weight: 700; }
 .ds-footer section p{ letter-spacing: 1.13px; color: #FFF; font-size: 18px; margin-bottom: 10px; }
@@ -154,7 +154,7 @@ span.ds-department{ color: #373737; font-weight: 500; font-size: 18px; padding-b
 	.ds-header,.ds-header.ds-fixed-header{ padding: 15px 0; }
 	.ds-banner,.ds-about-section,.ds-skills-section,.ds-experience-section,.ds-work-section,.ds-work-details-section{ padding-left: 10px; padding-right: 10px; }
 	.ds-logo{ font-size: 0; }
-	.ds-banner figure{ padding: 30px 0; }
+	.ds-banner figure{ padding: 30px 30px; }
 	.ds-banner section{ padding-left: 0;padding-right: 0; }
 	.ds-banner section h1 span{ padding-bottom: 0; }
 	.ds-banner section h1,.ds-work-det-title{ font-size: 30px; line-height: 40px; }
