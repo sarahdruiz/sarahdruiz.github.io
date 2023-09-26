@@ -69,7 +69,9 @@ svg,img { max-width: 100%; height: auto; }
 /*-----------------------------------------------------------------
   3. >>> Teaching Style
 ----------------------------------------------------------------*/
-.ds-teaching-section{ padding-top: 120px; padding-bottom: 120px; }
+.ds-teaching-section{ padding-top: 120px; padding-bottom: 20px; }
+.ds-teaching-subsection{ padding-top: 20px; padding-bottom: 20px; }
+.ds-teaching-subsection2{ padding-top: 20px; padding-bottom: 40px; }
 .ds-teaching-section p{ color: #373737; font-size: 14px; line-height: 24px; font-weight: 300; margin-bottom: 10px; }
 
 /*-----------------------------------------------------------------
