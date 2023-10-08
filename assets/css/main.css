@@ -20,7 +20,7 @@ a{color: #000}
 iframe { border: 0;outline: none;}
 ::-moz-selection {background:#000;text-shadow: none;color:#FFF}
 ::selection {background:#000;text-shadow: none;color:#FFF}
-img {max-width: 100%;border: none;outline: none;height: auto;}
+img {max-width: 100%;border: none;outline: none;height: auto;align-items: center;}
 input,textarea {border-radius: 0;resize: none;}
 ul {padding: 0;margin: 0;}
 @font-face {
@@ -28,7 +28,7 @@ font-family: 'Inter', sans-serif;}
 input:-webkit-autofill, textarea:-webkit-autofill, select:-webkit-autofill {background-color: transparent;background-image: none;color:#000;}
 /* 1.2 Typography */
 h1,h2,h3,h4,h5,h6 {font-family: 'Inter', sans-serif;}
-figure{ margin: 5}
+figure{ margin: 0}
 svg,img { max-width: 100%; height: auto; }
 
 /*-----------------------------------------------------------------
@@ -47,7 +47,7 @@ svg,img { max-width: 100%; height: auto; }
 /*-----------------------------------------------------------------
   2. >>> Banner Style
 ----------------------------------------------------------------*/
-.ds-banner section{ padding-left: 70px; padding-right: 70px; }
+.ds-banner section{ padding-left: 70px; padding-right: 70px; padding-top: 70px;}
 .ds-banner section h1 span{ display: block; text-transform: uppercase; letter-spacing: 1px;  font-weight: 500; font-size: 16px; padding-bottom: 30px; }
 .ds-banner section h1{ font-weight: 600; font-size: 48px; line-height: 60px; color: #000; }
 .ds-numbervalulist{ list-style: none; display: flex; align-items: center; flex-wrap: wrap; margin: 0; padding: 0; margin-top: 60px; }
@@ -78,7 +78,7 @@ svg,img { max-width: 100%; height: auto; }
   6. >>> Outreach Style
 ----------------------------------------------------------------*/
 .ds-outreach-section{ padding-top: 120px; padding-bottom: 120px;}
-.ds-outreach-list{ padding-left: 70px; padding-top:40px; padding-right: 70px; background-color:#F6F8FA; margin-bottom: 40px; }
+.ds-outreach-list{ padding-left: 70px; padding-top:40px; padding-right: 70px; background-color:#F6F8FA; margin-bottom: 40px; float: left; }
 .ds-outreach-list section{ padding-top: 20px; padding-right: 120px; }
 .ds-outreach-tilte{ color: #000; font-size: 18px; line-height: 22px; font-weight: 600; margin-bottom: 22px; }
 .ds-outreach-list p{ font-weight: 300; font-size: 18px; line-height: 30px; }
