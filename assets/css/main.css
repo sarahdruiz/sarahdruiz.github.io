@@ -78,7 +78,7 @@ svg,img { max-width: 100%; height: auto; }
   6. >>> Outreach Style
 ----------------------------------------------------------------*/
 .ds-outreach-section{ padding-top: 120px; padding-bottom: 120px;}
-.ds-outreach-list{ padding-left: 70px; padding-top:40px; padding-right: 70px; background-color:#F6F8FA; margin-bottom: 40px; float: left; }
+.ds-outreach-list{ padding-left: 70px; padding-top:40px; padding-right: 70px; background-color:#F6F8FA; margin-bottom: 40px; float: left; align-items: center;}
 .ds-outreach-list section{ padding-top: 20px; padding-right: 120px; }
 .ds-outreach-tilte{ color: #000; font-size: 18px; line-height: 22px; font-weight: 600; margin-bottom: 22px; }
 .ds-outreach-list p{ font-weight: 300; font-size: 18px; line-height: 30px; }
