@@ -20,7 +20,7 @@ a{color: #000}
 iframe { border: 0;outline: none;}
 ::-moz-selection {background:#000;text-shadow: none;color:#FFF}
 ::selection {background:#000;text-shadow: none;color:#FFF}
-img {max-width: 100%;border: none;outline: none;height: auto;align-items: center;}
+img {max-width: 100%;border: none;outline: none;height: auto;align-items: center;text-align: center;}
 input,textarea {border-radius: 0;resize: none;}
 ul {padding: 0;margin: 0;}
 @font-face {
@@ -91,10 +91,12 @@ svg,img { max-width: 100%; height: auto; }
 ----------------------------------------------------------------*/
 .ds-research-section{ padding-top: 120px; padding-bottom: 120px;}
 .ds-research-list{ padding-left: 70px; padding-top:40px; padding-right: 70px; background-color:#F6F8FA; margin-bottom: 40px; }
+.ds-research-list2{ padding-left: 70px; padding-top:40px; padding-right: 70px; background-color:#F6F8FA; margin-bottom: 40px; }
 .ds-research-list section{ padding-top: 20px; padding-right: 120px; }
 .ds-research-title{ color: #000; font-size: 18px; line-height: 30px; font-weight: 600; margin-bottom: 30px; }
 .ds-research-list p{ font-weight: 300; font-size: 18px; line-height: 30px; }
-
+.ds-research-title2{ color: #000; font-size: 18px; line-height: 30px; font-weight: 600; margin-bottom: 30px; text-align: right;}
+.ds-research-list2 p{ font-weight: 300; font-size: 18px; line-height: 30px; text-align: right;}
 
 /*-----------------------------------------------------------------
   4. >>> Skills Style
