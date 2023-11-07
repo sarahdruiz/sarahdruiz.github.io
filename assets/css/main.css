@@ -160,7 +160,7 @@ span.ds-department{ color: #373737; font-weight: 500; font-size: 18px; padding-b
 	.ds-header,.ds-header.ds-fixed-header{ padding: 15px 0; }
 	.ds-banner,.ds-about-section,.ds-skills-section,.ds-experience-section,.ds-work-section,.ds-work-details-section{ padding-left: 10px; padding-right: 10px; }
 	.ds-logo{ font-size: 0; }
-	.ds-banner figure{ padding: 60px 30px; padding-top: 100px; }
+	.ds-banner figure{ padding: 60px 30px; padding-top: 300px; }
 	.ds-banner section{ padding-left: 0;padding-right: 0; }
 	.ds-banner section h1 span{ padding-bottom: 0; }
 	.ds-banner section h1,.ds-work-det-title{ font-size: 30px; line-height: 40px; }
